@@ -1,4 +1,4 @@
-# srclisitng.py - 
+# srclisting.py - 
 # for all files in a directory and its sub-directories
 # copy into a file named: srclisting.txt 
 
