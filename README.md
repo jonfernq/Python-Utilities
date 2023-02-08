@@ -12,6 +12,9 @@ Python utilities to perform a wide-variety of useful tasks.
 
 - [Walk directory tree, apply function](https://github.com/jonfernq/Python-Utilities/blob/main/walk_dirtree_apply_function.py): walk_dirtree_apply_function.py - take a directory and apply a given function to every file name in the directory and subdirectories. 
 
+- [Grep: search for string in files in root directory and all sub-directories](https://github.com/jonfernq/Python-Utilities/blob/main/grep_dirs.py): walk_dirtree_apply_function.py - walks directories from root directory, reporting on matches to a string or regular expression, defaults to current directory, if no directory given , a list of excluded extensions can be given, only searches unicode texts, if not unicode and cannot open, file, indication is given in a message. 
+
+
 
 
 
