@@ -14,6 +14,8 @@ Python utilities to perform a wide-variety of useful tasks.
 
 - [Grep: search for string in files in root directory and all sub-directories](https://github.com/jonfernq/Python-Utilities/blob/main/grep_dirs.py): walk_dirtree_apply_function.py - walks directories from root directory, reporting on matches to a string or regular expression, defaults to current directory, if no directory given , a list of excluded extensions can be given, only searches unicode texts, if not unicode and cannot open, file, indication is given in a message. 
 
+- [Text-to-speech](https://github.com/jonfernq/Python-Utilities/blob/main/text_to_speech_gTTS.py): text_to_speech_gTTS.py - text-to-speech from English and Thai text.
+
 
 
 
