@@ -1,6 +1,8 @@
 ## Python-Utilities
 
-Python utilities to perform a wide-variety of useful tasks. 
+Python utilities to perform a wide-variety of useful tasks.
+
+- [Print to file](https://github.com/jonfernq/Python-Utilities/blob/main/print2file.py): print2file.py - print2file.py - redirect print to a .txt file temporarily 
 
 - [OCR image-to-text](https://github.com/jonfernq/Python-Utilities/blob/main/ocr.py): ocr.py - produces .txt files from .jpg files with text using Tesseract OCR library. 
 
