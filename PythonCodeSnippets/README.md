@@ -1,0 +1,27 @@
+## Python Code Snippets
+
+1. A nested for loop to iterate over a dictionary of dictionaries, 
+printing a dictionary of dictionaries:  
+
+```python
+my_dict = {
+    'person1': {'name': 'Alice', 'age': 30},
+    'person2': {'name': 'Bob', 'age': 25},
+    'person3': {'name': 'Charlie', 'age': 35}
+}
+
+def print_dictofdicts():
+	for key1, dict1 in my_dict.items():
+		print("Key1:", key1)
+		for key2, value in dict1.items():
+			print("  Key2:", key2, "Value:", value)
+            
+print_dictofdicts()
+```
+
+2. Length of a list of lists given a function like len() but returning a tuple: 
+
+```python
+def lenx2(listoflists):
+    return (len(listoflists), len(listoflists[0])) 
+```
