@@ -19,7 +19,7 @@ def print_dictofdicts():
 print_dictofdicts()
 ```
 
-2. Length of a list of lists given a function like len() but returning a tuple: 
+2. Length of a list of lists given by a function like len() but returning a tuple: 
 
 ```python
 def lenx2(listoflists):
