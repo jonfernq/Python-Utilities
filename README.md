@@ -1,4 +1,10 @@
-## Python-Utilities
+## Python Utilities & Code Snippets 
+
+### Snippets
+
+- [Python Code Snippets](https://github.com/jonfernq/Python-Utilities/tree/main/PythonCodeSnippets)
+
+### Utilities
 
 Python utilities and code snippets to perform a wide-variety of useful tasks.
 
