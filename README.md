@@ -24,7 +24,7 @@ Python utilities and code snippets to perform a wide-variety of useful tasks.
 
 - [Text-to-speech](https://github.com/jonfernq/Python-Utilities/blob/main/text_to_speech_gTTS.py): text_to_speech_gTTS.py - text-to-speech from English and Thai text.
 
--[long_line_paragraphs.py](https://github.com/jonfernq/Python-Utilities/blob/main/long_line_paragraphs.py): Takes a .txt file as an argument and reformats the paragraphs so that they are one long line of text without single line breaks:
+-[long_line_paragraphs.py](https://github.com/jonfernq/Python-Utilities/blob/main/long_line_paragraphs.py): Takes a .txt file as an argument and reformats the paragraphs so that they are one long line of text without single line breaks. When they are pasted into a textbox, they will not appear brokwn in a difficult to read fashion.
 
 
 
