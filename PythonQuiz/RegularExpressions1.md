@@ -15,10 +15,10 @@ matches = re.findall(pattern, text)
 print(matches)
 ```
 
-a) ['quick', 'brown', 'jumps']
-b) ['quick', 'brown', 'fox', 'jumps', 'over', 'lazy']
-c) ['brown', 'jumps']
-d) ['quick', 'brown', 'jumps', 'over', 'lazy']
+- a) ['quick', 'brown', 'jumps']
+- b) ['quick', 'brown', 'fox', 'jumps', 'over', 'lazy']
+- c) ['brown', 'jumps']
+- d) ['quick', 'brown', 'jumps', 'over', 'lazy']
 
 2. What will be the output of the following code snippet?
 
@@ -71,7 +71,7 @@ b) ['My email address is example@example.com.']
 c) []
 d) ['My email address is ', 'example@example.com.']
 
-What will be the output of the following code snippet?
+5. What will be the output of the following code snippet?
 
 ```python
 import re
@@ -88,7 +88,7 @@ b) ['brown', 'fox', 'jumps', 'over']
 c) ['brown', 'fox']
 d) ['brown', 'fox', 'jumps']
 
-What is the output of the following code?
+6. What is the output of the following code?
 
 ```python
 import re
@@ -104,7 +104,7 @@ b. 'hello', '123world', 'good4' <br>
 c. 'hello', 'good4' <br>
 d. '123world', 'good4'
 
-What is the output of the following code?
+7. What is the output of the following code?
 
 ```python
 import re
@@ -120,7 +120,7 @@ b. '123 456 789 123', 'abc 123 123 abc', 'abc 123 abc 456' <br>
 c. '123 456 789 123', 'abc 123 123 abc' <br>
 d. '123 456 789 123'
 
-What is the output of the following code?
+8. What is the output of the following code?
 
 ```python
 import re
@@ -136,7 +136,7 @@ b. 'password123', 'PASSWORD123' <br>
 c. 'password123' <br>
 d. No output
 
-What is the output of the following code?
+9. What is the output of the following code?
 
 ```python
 import re
@@ -152,7 +152,7 @@ b. 'aaabbb', 'AAABBB' <br>
 c. 'aaabbb' <br>
 d. No output
 
-What is the output of the following code?
+10. What is the output of the following code?
 
 ```python
 import re
@@ -167,7 +167,5 @@ a. ['The Quick Brown Fox'] <br>
 b. ['The', 'Quick', 'Brown', 'Fox'] <br>
 c. ['Quick', 'Brown'] <br>
 d. No output
-
-
 
 
