@@ -15,10 +15,10 @@ matches = re.findall(pattern, text)
 print(matches)
 ```
 
-- a) ['quick', 'brown', 'jumps']
-- b) ['quick', 'brown', 'fox', 'jumps', 'over', 'lazy']
-- c) ['brown', 'jumps']
-- d) ['quick', 'brown', 'jumps', 'over', 'lazy']
+a) ['quick', 'brown', 'jumps']<br>
+b) ['quick', 'brown', 'fox', 'jumps', 'over', 'lazy']<br>
+c) ['brown', 'jumps']<br>
+d) ['quick', 'brown', 'jumps', 'over', 'lazy']<br>
 
 2. What will be the output of the following code snippet?
 
@@ -32,10 +32,10 @@ matches = re.findall(pattern, text)
 print(matches)
 ```
 
-a) ['123-456-7890']
-b) ['My phone number is 123-456-7890.']
-c) []
-d) ['My phone number is ', '123-456-7890.']
+a) ['123-456-7890']<br>
+b) ['My phone number is 123-456-7890.']<br>
+c) []<br>
+d) ['My phone number is ', '123-456-7890.']<br>
 
 3. What will be the output of the following code snippet?
 
@@ -49,10 +49,10 @@ matches = re.findall(pattern, text)
 print(matches)
 ```
 
-a) ['The', 'quick', 'brown', 'fox', 'jumps', 'over', 'the', 'lazy', 'dog']
-b) ['quick', 'brown', 'fox', 'jumps', 'over', 'lazy', 'dog']
-c) ['quick', 'brown', 'fox', 'jumps', 'over', 'lazy']
-d) ['The', 'quick', 'brown', 'fox', 'jumps', 'over', 'lazy']
+a) ['The', 'quick', 'brown', 'fox', 'jumps', 'over', 'the', 'lazy', 'dog']<br>
+b) ['quick', 'brown', 'fox', 'jumps', 'over', 'lazy', 'dog']<br>
+c) ['quick', 'brown', 'fox', 'jumps', 'over', 'lazy']<br>
+d) ['The', 'quick', 'brown', 'fox', 'jumps', 'over', 'lazy']<br>
 
 4. What will be the output of the following code snippet?
 
@@ -66,10 +66,10 @@ matches = re.findall(pattern, text)
 print(matches)
 ```
 
-a) ['example@example.com']
-b) ['My email address is example@example.com.']
-c) []
-d) ['My email address is ', 'example@example.com.']
+a) ['example@example.com']<br>
+b) ['My email address is example@example.com.']<br>
+c) []<br>
+d) ['My email address is ', 'example@example.com.']<br>
 
 5. What will be the output of the following code snippet?
 
@@ -83,10 +83,10 @@ matches = re.findall(pattern, text)
 print(matches)
 ```
 
-a) ['brown', 'fox', 'over']
-b) ['brown', 'fox', 'jumps', 'over']
-c) ['brown', 'fox']
-d) ['brown', 'fox', 'jumps']
+a) ['brown', 'fox', 'over']<br>
+b) ['brown', 'fox', 'jumps', 'over']<br>
+c) ['brown', 'fox']<br>
+d) ['brown', 'fox', 'jumps']<br>
 
 6. What is the output of the following code?
 
