@@ -4,9 +4,13 @@
 make some difficult multiple choice questions to test one's knowledge of Python list slices 
 
 1. Given the list lst = [1, 2, 3, 4, 5], what is the output of lst[1:3] + lst[0:2]?
+
 a) [2, 3, 1, 2]
+
 b) [2, 3, 1, 2, 3]
+
 c) [2, 3, 4, 1, 2]
+
 d) [2, 3, 4, 5, 1, 2]
 
 2. What is the output of list(range(10))[::2][1:3]?
