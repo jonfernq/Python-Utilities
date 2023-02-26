@@ -3,6 +3,8 @@
 Multiple choice questions as a way to gain greater mastery over Python.
 
 - [Regular Expressions](https://github.com/jonfernq/Python-Utilities/blob/main/PythonQuiz/RegularExpressions1.md)
+- [os.path](https://github.com/jonfernq/Python-Utilities/blob/main/PythonQuiz/file_path_questions.md)
+- [Python List Slices](https://github.com/jonfernq/Python-Utilities/blob/main/PythonQuiz/PythonSlices.md) 
 
 ### Utilities
 
