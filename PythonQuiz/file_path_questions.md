@@ -25,7 +25,7 @@ exists = os.path.exists(full_path)
 print(exists)     # Output: True
 ```
 
-### os.path module multiple choice questions
+### os.path questions
 
 Which of the following os.path functions can be used to join multiple paths together?
 
@@ -97,7 +97,7 @@ c. os.path.getmtime
 
 d. os.path.getsize
 
-### Multiple choice questions where the output of actual code must be evaluated:
+### Code Evaluation: 
 
 What will be the output of the following code?
 
