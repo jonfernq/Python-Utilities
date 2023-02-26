@@ -1,6 +1,8 @@
-## os.path: the python library for processing file names and directory paths 
+## os.path
 
-The Python standard library module for processing file names and directory paths is os.path. It provides a portable way of using operating system dependent functionality like pathname manipulation. The os.path module contains functions for manipulating file paths, such as joining paths, splitting paths, getting the basename of a file, and so on. Here's an example of how to use os.path to manipulate file paths:
+os.path is used to process file names and directory paths.
+
+As a standard library module, it provides a portable way of using operating system dependent functionality like pathname manipulation. The os.path module contains functions for manipulating file paths, such as joining paths, splitting paths, getting the basename of a file, and so on. Here's an example of how to use os.path to manipulate file paths:
 
 ```python
 import os
