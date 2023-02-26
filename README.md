@@ -26,6 +26,10 @@ Python utilities and code snippets to perform a wide-variety of useful tasks.
 
 - [long_line_paragraphs.py](https://github.com/jonfernq/Python-Utilities/blob/main/long_line_paragraphs.py): Takes a .txt file as an argument and reformats the paragraphs so that they are one long line of text without single line breaks. When they are pasted into a textbox, they will not appear brokwn in a difficult to read fashion.
 
+### Python Learning
+
+- [Python Quiz](https://github.com/jonfernq/Python-Utilities/tree/main/PythonQuiz) 
+
 
 
 
