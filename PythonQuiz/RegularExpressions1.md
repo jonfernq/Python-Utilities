@@ -1,5 +1,5 @@
 
-## Regular Expression Questions
+## Regular Expressions
 
 Multiple choice questions to test one's knowledge of Python regular expressions:
 
