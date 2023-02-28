@@ -26,6 +26,27 @@ Python utilities and code snippets to perform a wide-variety of useful tasks.
 
 ![calendar_example](https://user-images.githubusercontent.com/68504324/221752031-9250431f-1038-45e6-a194-403a93f99850.jpg)
 
+Write out a list of class meetings given class information below,
+and at the bottom provide the total number of class meetings,
+not including holidays.  
+
+1. Class start date<br>
+2. End date<br>
+3. Midterm date<br>
+4. Days of the week the class meets (e.g. Tu-Th, Mo-We-Fr)<br>
+5. Holidays<br>
+
+- [course_teaching_days.py](https://github.com/jonfernq/Python-Utilities/blob/main/course_teaching_days.py): Produces list.
+- [course_details.txt](https://github.com/jonfernq/Python-Utilities/blob/main/course_details.txt): Provides parameters to program (sample data).
+- [course_details_template.txt](https://github.com/jonfernq/Python-Utilities/blob/main/course_details_template.txt): Provides parameters to program (template).
+- [uh_calendar_data.txt](https://github.com/jonfernq/Python-Utilities/blob/main/uh_calendar_data.txt) - University of Hawaii calendar data.   
+
+![meeting_days_list](https://user-images.githubusercontent.com/68504324/221755154-ac535958-cd9f-4cd8-9b7a-09070b615ed5.jpg)
+
+![course_details2](https://user-images.githubusercontent.com/68504324/221755196-307bba82-8dda-4c56-86e2-48531fb1ef6d.jpg)
+
+
+
 #### OTHER
 
 - [Source code listing](https://github.com/jonfernq/Python-Utilities/blob/main/srclisting.py): srclisting.py - for all files in a directory and its sub-directories copy into a file named: srclisting.txt 
