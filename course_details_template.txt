@@ -1,0 +1,5 @@
+YYYY-MM-DD   # Class start date
+YYYY-MM-DD   # Class end date
+YYYY-MM-DD   # Midterm exam date
+D D D        # Days of the week the class meets, separated by spaces (e.g. "Mon Wed Fri")
+YYYY-MM-DD, YYYY-MM-DD, ... # Holidays, separated by commas (optional)
