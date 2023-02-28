@@ -20,6 +20,12 @@ Python utilities and code snippets to perform a wide-variety of useful tasks.
 
 - [Text-to-speech](https://github.com/jonfernq/Python-Utilities/blob/main/text_to_speech_gTTS.py): text_to_speech_gTTS.py - text-to-speech from English and Thai text.
 
+#### Calendars
+
+- [make_calendar](https://github.com/jonfernq/Python-Utilities/blob/main/make_calendar.py): Make simple calendar to list important events in the boxes for different days. 
+
+![calendar_example](https://user-images.githubusercontent.com/68504324/221752031-9250431f-1038-45e6-a194-403a93f99850.jpg)
+
 #### OTHER
 
 - [Source code listing](https://github.com/jonfernq/Python-Utilities/blob/main/srclisting.py): srclisting.py - for all files in a directory and its sub-directories copy into a file named: srclisting.txt 
