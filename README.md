@@ -36,6 +36,9 @@ not including holidays.
 4. Days of the week the class meets (e.g. Tu-Th, Mo-We-Fr)<br>
 5. Holidays<br>
 
+The syllabus topics to be covered are then scheduled for a particular day by distributing them over the class days of the list,
+redoing the distribution and schedule as adjustments become necessary.  
+
 - [course_teaching_days.py](https://github.com/jonfernq/Python-Utilities/blob/main/course_teaching_days.py): Produces list.
 - [course_details.txt](https://github.com/jonfernq/Python-Utilities/blob/main/course_details.txt): Provides parameters to program (sample data).
 - [course_details_template.txt](https://github.com/jonfernq/Python-Utilities/blob/main/course_details_template.txt): Provides parameters to program (template).
