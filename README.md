@@ -14,6 +14,8 @@ Python utilities and code snippets to perform a wide-variety of useful tasks.
 
 - [OCR images to texts](https://github.com/jonfernq/Python-Utilities/blob/main/ocr_texts.py): OCRs whole folder of jpegs producing folder of text files plus cumulative summary file including all text. 
 
+- [OCR images to texts](https://github.com/jonfernq/Python-Utilities/blob/main/ocr_texts_2.py): OCR folder of images of texts to text files, plus cumulative file.
+
 #### AUDIO & VIDEO
 
 - [YouTube to MP3](https://github.com/jonfernq/Python-Utilities/blob/main/youtube2mp3.py): youtube2mp3.py - download list of YouTube videos and convert to MP3.
