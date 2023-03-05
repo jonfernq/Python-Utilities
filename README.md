@@ -3,6 +3,7 @@
 ### Snippets
 
 - [Python Code Snippets](https://github.com/jonfernq/Python-Utilities/tree/main/PythonCodeSnippets)
+- [Data Manipulation](https://github.com/jonfernq/Python-Utilities/tree/main/DataManipulation)
 
 ### Utilities
 
