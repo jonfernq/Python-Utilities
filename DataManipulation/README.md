@@ -13,7 +13,7 @@ before meaningful insights can be extracted."
 Code for reformatting a screen scrape of my published news articles into a repurposed portfolio:
 
 - [walk.py](https://github.com/jonfernq/Python-Utilities/blob/main/DataManipulation/walk.py): walk directory tree, list files that exist. 
-- [tree2folder.py](https://github.com/jonfernq/Python-Utilities/blob/main/DataManipulation/tree2folder.py): walk directory tree, copy files to a folder 
+- [tree2folder.py](https://github.com/jonfernq/Python-Utilities/blob/main/DataManipulation/tree2folder.py): walk directory tree, copy files to a folder if they contain a string, namely my name 
 - [extractinfo.py](https://github.com/jonfernq/Python-Utilities/blob/main/DataManipulation/extractinfo.py): Extract content and meta-data from screen-scraped article, rewrite as JSON.
 - [json2html.py](https://github.com/jonfernq/Python-Utilities/blob/main/DataManipulation/json2html.py): Format articles stored as JSON into HTML articles. 
 - [jsonextract.py](https://github.com/jonfernq/Python-Utilities/blob/main/DataManipulation/jsonextract.py): Extract the first n list items from JSON file, rewrite to new JSON file.  
