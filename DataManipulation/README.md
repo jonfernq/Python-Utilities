@@ -10,7 +10,7 @@ before meaningful insights can be extracted."
 
 ### Repurposing Screen-Scraped Text 
 
-Code for reformatting a screen scrape of my published news articles into a repurposed portfolio:
+Code for extracting info from a screen scraping of my published news articles into a repurposed portfolio:
 
 - [walk.py](https://github.com/jonfernq/Python-Utilities/blob/main/DataManipulation/walk.py): walk directory tree, list files that exist. 
 - [tree2folder.py](https://github.com/jonfernq/Python-Utilities/blob/main/DataManipulation/tree2folder.py): walk directory tree, copy files to a folder if they contain a string, namely my name 
