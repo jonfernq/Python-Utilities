@@ -9,6 +9,10 @@
 
 Python utilities and code snippets to perform a wide-variety of useful tasks.
 
+#### PDF Files
+
+- [Merge PDF](https://github.com/jonfernq/Python-Utilities/blob/main/PDF/pdfmerge.py):  Merge all PDF files in a directory.
+
 #### OCR
 
 - [OCR image to text](https://github.com/jonfernq/Python-Utilities/blob/main/ocr.py): produces text file from JPEG file using Tesseract OCR library. 
