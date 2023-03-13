@@ -27,6 +27,8 @@ Python utilities and code snippets to perform a wide-variety of useful tasks.
 
 - [Text-to-speech](https://github.com/jonfernq/Python-Utilities/blob/main/text_to_speech_gTTS.py): text_to_speech_gTTS.py - text-to-speech from English and Thai text.
 
+- [Text-to-Speech + Pre-Processing](https://github.com/jonfernq/Python-Utilities/blob/main/TextToSpeech/text_to_speech.md): Text-to-Speech removing non-Alphanumeric characters such as Markdown first. 
+
 #### Calendars
 
 - [make_calendar](https://github.com/jonfernq/Python-Utilities/blob/main/make_calendar.py): Make simple calendar to list important events in the boxes for different days. 
