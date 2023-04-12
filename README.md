@@ -9,6 +9,8 @@
 
 Python utilities and code snippets to perform a wide-variety of useful tasks.
 
+- [ChatGPT to GitHub](https://github.com/jonfernq/Learning/blob/main/Markdown/GitHubFlavoredmarkdown/CleanUpChatGPTText.md): Reformat ChatGPT text into GitHub Markdown text
+
 #### PDF Files
 
 - [Merge PDF](https://github.com/jonfernq/Python-Utilities/blob/main/PDF/pdfmerge.py):  Merge all PDF files in a directory.
