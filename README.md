@@ -14,6 +14,7 @@ Python utilities and code snippets to perform a wide-variety of useful tasks.
 #### PDF Files
 
 - [Merge PDF](https://github.com/jonfernq/Python-Utilities/blob/main/PDF/pdfmerge.py):  Merge all PDF files in a directory.
+- [Make Word File of Text & Images, Scale Images](https://github.com/jonfernq/Python-Utilities/blob/main/PDF/MakeWord.md)
 
 #### OCR
 
