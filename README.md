@@ -7,9 +7,6 @@
 
 ### Utilities
 
-Python utilities and code snippets to perform a wide-variety of useful tasks.
-
-- [ChatGPT to GitHub](https://github.com/jonfernq/Learning/blob/main/Markdown/GitHubFlavoredmarkdown/CleanUpChatGPTText.md): Reformat ChatGPT text into GitHub Markdown text
 
 #### PDF Files
 
