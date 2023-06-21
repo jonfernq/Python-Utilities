@@ -1,5 +1,28 @@
 ## Python Code Snippets
 
+1. Remove blank lines from a file:
+
+```python
+def remove_blank_lines(input_file, output_file):
+    with open(input_file, 'r') as file:
+        lines = file.readlines()
+
+    # Remove blank lines
+    lines = [line for line in lines if line.strip()]
+
+    with open(output_file, 'w') as file:
+        file.writelines(lines)
+
+    print("Blank lines removed. Modified content saved to", output_file)
+
+
+# Usage example
+input_file = "input.txt"
+output_file = "output.txt"
+
+remove_blank_lines(input_file, output_file)
+```
+
 1. A nested for loop to iterate over a dictionary of dictionaries, 
 printing a dictionary of dictionaries:  
 
