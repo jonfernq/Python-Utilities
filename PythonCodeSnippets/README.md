@@ -23,7 +23,7 @@ output_file = "output.txt"
 remove_blank_lines(input_file, output_file)
 ```
 
-1. A nested for loop to iterate over a dictionary of dictionaries, 
+2. A nested for loop to iterate over a dictionary of dictionaries, 
 printing a dictionary of dictionaries:  
 
 ```python
